@@ -1,3 +1,5 @@
+from __future__ import unicode_literals
+
 """
 NEWLY LEARNT CONCEPTS SUMMARY
 
@@ -150,7 +152,6 @@ Program to download YouTube video as mp3.
 Based on: https://stackoverflow.com/questions/27473526/download-only-audio-from-youtube-video-using-youtube-dl-in-python-script
 """
 
-from __future__ import unicode_literals
 import youtube_dl
 
 
