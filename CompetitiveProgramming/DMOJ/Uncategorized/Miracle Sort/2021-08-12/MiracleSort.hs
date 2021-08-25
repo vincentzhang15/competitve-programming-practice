@@ -1,0 +1,1 @@
+main = getContents >>= \s -> mapM_ putStrLn . tail . words $ s
