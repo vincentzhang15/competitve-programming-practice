@@ -1,0 +1,1 @@
+python HelloWorld.py < nums6.txt

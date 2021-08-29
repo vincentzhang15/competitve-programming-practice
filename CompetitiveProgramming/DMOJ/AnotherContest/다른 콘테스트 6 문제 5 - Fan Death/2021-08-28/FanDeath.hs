@@ -1,0 +1,1 @@
+main = getLine >>= (\n -> print $ sum [x | x <- [1..n], mod n x == 0] * 5 - 24) . (read :: String -> Int)

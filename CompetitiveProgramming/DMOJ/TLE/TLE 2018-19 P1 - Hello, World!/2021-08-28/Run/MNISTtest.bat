@@ -1,0 +1,10 @@
+start testnums0.bat
+start testnums1.bat
+start testnums2.bat
+start testnums3.bat
+start testnums4.bat
+start testnums5.bat
+start testnums6.bat
+start testnums7.bat
+start testnums8.bat
+start testnums9.bat
