@@ -53,5 +53,6 @@ Documented
 
 --------
 Others
+- (85% accuracy MNIST handwritten digit recognition without using machine learning) https://github.com/vincentzhang15/programming-fundamentals-and-techniques/blob/main/CompetitiveProgramming/DMOJ/TLE/TLE%202018-19%20P1%20-%20Hello%2C%20World!/2021-08-28/HelloWorld.py
 - https://github.com/vincentzhang15/programming-fundamentals-and-techniques/blob/main/CompetitiveProgramming/CCC/CCC%20'16%20S5%20-%20Circle%20of%20Life/2021-08-26/CircleOfLife.py
 - https://github.com/vincentzhang15/programming-fundamentals-and-techniques/blob/main/CompetitiveProgramming/CCC/CCC%20'20%20S5%20-%20Josh's%20Double%20Bacon%20Deluxe/2021-08-26/JoshDoubleBaconDeluxe.py
