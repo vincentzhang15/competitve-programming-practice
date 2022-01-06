@@ -10,10 +10,14 @@ Section 4: Max Final Mark
 @since 30 November 2021
 """
 
+import os
+
 exact = False
 
+direc = input("Enter input file directory: ")
+
 data = []
-with open('CalculateGrade_Input.txt') as f:
+with open(os.path.join(direc, 'CalculateGrade_Input.txt')) as f:
     for line in f:
         line = line.strip()
         if line == 'Calculation:exact': # Exact format takes numerator/denominator instead of direct percentage
