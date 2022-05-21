@@ -1,2 +1,2 @@
-# programming-fundamentals-and-techniques
+# competitve-programming-practice
  
